@@ -1,4 +1,4 @@
-### Monitor for impfterminradar.de
+# Monitor for impfterminradar.de
 
 ```
 Checking 36 entries…
