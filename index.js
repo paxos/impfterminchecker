@@ -55,6 +55,10 @@ const locations = [
 
     if (hits.length > 0) {
       exec("say AVAILABLE!");
+
+      for (const hit of hits) {
+        console.log(hit);
+      }
     }
   } catch (error) {
     console.log(error);
