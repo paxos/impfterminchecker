@@ -13,9 +13,22 @@ Checking 36 entries…
 }
 ```
 
+## How to install
+Clone, then…
+
+```
+npm install
+```
+
 ## How to run
 
 e.g.
+
+```
+node index.js
+```
+
+or
 
 ```
 watch node index.js
